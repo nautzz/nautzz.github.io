@@ -11,3 +11,8 @@ p {
   font-family: 'Fira Sans', sans-serif;
   text-align: center;
 }
+#text {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
